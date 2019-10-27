@@ -1,2 +1,2 @@
 # LearnJavaFundamentals
-This repository was created with the idea to go through the basic concepts of Java, for a better understanding, by examples.
+The idea of this repository is to go through the basic concepts of Java within examples, for a better understanding.
