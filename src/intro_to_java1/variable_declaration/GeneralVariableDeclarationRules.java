@@ -29,7 +29,7 @@ public class GeneralVariableDeclarationRules {
         int b = 20; // declaration with initialization
 
         //multiple declaration
-        int x, y=10, z;
+        int x, y = 10, z;
 
         //If we don't initialize a variable it will get the default value: zero
 
@@ -40,7 +40,6 @@ public class GeneralVariableDeclarationRules {
         int test = 0;
         out.println(test);
         //out.println(test); it requires to initialize test
-
 
 
     }
